@@ -1,16 +1,17 @@
-## Hi there 👋
+## Boas vindas ao meu perfil👑
 
-<!--
-**isa483/ISA483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isadora Barbosa Sousa
 
-Here are some ideas to get you started:
+- Estou estudando no alura
+- sou estudante do terceiro ano do ensino médio
+- criei este perfil para as minhas aulas de tecnológia🖥️
+- sou um pouco lenta no assunto então tenho dificuldade🚼
+-pretendo ser historiadora📖
+- Adoro filmes de época
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ## você pode entar em contato comigo📫
+
+ 00001113128616sp@al.educacao.sp.gov.br
+
+!{} (https://media1.tenor.com/m/M8sKkIeiAJAAAAAC/anna-karenina.gif)
